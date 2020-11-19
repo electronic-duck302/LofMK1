@@ -17,3 +17,5 @@ miniCORE is a small corexy printer based around the prusa mini bed size, and is 
 *Enclosable (This may become easier, I'll see how it goes fitting the XY steppers inside the frame, but atm they're sort of hanging out the back)
 
 Any suggestions ar very welcome, I'm going to upload the cad for most of the frame and the Z axis soon
+
+* Bullet list
