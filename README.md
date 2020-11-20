@@ -11,7 +11,8 @@ miniCORE is a small corexy printer based around the prusa mini bed size, and is 
 * CoreXY Motion system running on MGN12 linear rails
 * Belted Z axis (eliminates Z Wobble, and with 0.9 degree steppers, and 16t GT2 pulleys can produce normal layer heights just fine)
 * SKR V1.4 W/ Raspberry pi 4 Running Klipper
-* E3D Hemera Extruder
+* Dragon Hotend
+* Dual Drive Direct Extruder
 * E3D 0.9 degree stepper motors for A,B,Z axes
 * Solid V-slot extrusion Frame(Should also work with T slot, but V slot is cheaper here)
 * Enclosable (This may become easier, I'll see how it goes fitting the XY steppers inside the frame, but atm they're sort of hanging out the back)
