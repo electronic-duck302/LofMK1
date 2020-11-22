@@ -1,9 +1,9 @@
-# löfMK1
+# LöfMK1
 A small coreXY 3d printer
 
 This is a work in progress, and is currently still in the design phase.
 
-löfMK1 is a small corexy printer based around the prusa mini bed size, and is designed to be as compact as I can make it. Any suggestions for improvements are very welcome, however may take a while to implement. 
+LöfMK1 is a small corexy printer based around the prusa mini bed size, and is designed to be as compact as I can make it. Any suggestions for improvements are very welcome, however may take a while to implement. 
 
 ## Preliminary specs:
 
