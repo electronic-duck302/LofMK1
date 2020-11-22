@@ -11,6 +11,7 @@ löfMK1 is a small corexy printer based around the prusa mini bed size, and is d
 * CoreXY Motion system running on MGN12 linear rails
 * Belted Z axis (eliminates Z Wobble, and with 0.9 degree steppers, and 16t GT2 pulleys can produce normal layer heights just fine)
 * SKR V1.4 W/ Raspberry pi 4 Running Klipper
+* 24V
 * Dragon Hotend
 * Dual Drive Direct Extruder with easy filament load/unload latch
 * E3D 0.9 degree stepper motors for A,B,Z axes
